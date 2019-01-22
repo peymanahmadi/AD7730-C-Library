@@ -1,3 +1,4 @@
-*.C linguist-language=C
-*.H linguist-language=C
-*.c linguist-detectable=true
+#*.C linguist-language=C
+#*.H linguist-language=C
+#*.c linguist-detectable=true
+*.c diff=c
